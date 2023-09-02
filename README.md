@@ -14,9 +14,9 @@ The system utilizes a range of pretrained models, including DenseNet, InceptionV
  The model achieves an accuracy of approximately 85%, making it effective in identifying drowsiness-related eye closures.
  ## Prerequisites
  ### Before using this system, ensure you have the following libraries installed:
- OpenCV (cv2)
-TensorFlow
-Keras
-NumPy
-winsound
+ OpenCV (cv2) <br>
+TensorFlow <br>
+Keras <br>
+NumPy <br>
+winsound <br>
 
