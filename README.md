@@ -33,7 +33,7 @@ winsound <br>
 ``` cd drowsiness-detection ```
 ### Run the main script:
 ```python drowsiness_detection.py ```
-This script will start capturing video from your camera and monitor your eye state. If drowsiness is detected, it will trigger an alarm sound.
+<br> This script will start capturing video from your camera and monitor your eye state. If drowsiness is detected, it will trigger an alarm sound.
 
 ## Additional Notes
 The system supports multiple pretrained models. You can switch between them in the code to experiment with different architectures. <br>
