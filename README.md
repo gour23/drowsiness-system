@@ -21,9 +21,27 @@ NumPy <br>
 winsound <br>
 ### You can install these libraries using pip:
 ``` pip install opencv-python
- pip install tensorflow
-pip install keras
-pip install numpy
-pip install winsound
+    pip install tensorflow
+    pip install keras
+    pip install numpy
+    pip install winsound
 ```
+## Usage
+### Clone the repository to your local machine:
+``` git clone https://github.com/your-username/drowsiness-detection.git
+```
+### Navigate to the project directory:
+``` cd drowsiness-detection
+```
+### Run the main script:
+```python drowsiness_detection.py
+```
+This script will start capturing video from your camera and monitor your eye state. If drowsiness is detected, it will trigger an alarm sound.
+
+## Additional Notes
+The system supports multiple pretrained models. You can switch between them in the code to experiment with different architectures. <br>
+Experiment with different Haar Cascade classifiers for eye detection to optimize the system's accuracy. <br>
+Ensure that you have the necessary permissions and consent when deploying this system, especially in scenarios involving privacy and data protection.
+
+
 
