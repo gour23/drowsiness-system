@@ -19,4 +19,11 @@ TensorFlow <br>
 Keras <br>
 NumPy <br>
 winsound <br>
+### You can install these libraries using pip:
+``` pip install opencv-python
+ pip install tensorflow
+pip install keras
+pip install numpy
+pip install winsound
+```
 
