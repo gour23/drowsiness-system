@@ -30,11 +30,9 @@ winsound <br>
 ### Clone the repository to your local machine:
 ``` git clone https://github.com/your-username/drowsiness-detection.git ```
 ### Navigate to the project directory:
-``` cd drowsiness-detection
-```
+``` cd drowsiness-detection ```
 ### Run the main script:
-```python drowsiness_detection.py
-```
+```python drowsiness_detection.py ```
 This script will start capturing video from your camera and monitor your eye state. If drowsiness is detected, it will trigger an alarm sound.
 
 ## Additional Notes
